@@ -1,0 +1,53 @@
+Tnunu sun uu nuux ’ .
+
+SOLUTION.
+
+11 est facile de demontrer par ln geometrie, que toute section dc
+l'ellipso't‘de parallele d l'axe de rotation B D, fait une ellipse semblable&
+l'ellipse generatrice B G D H. considemus l'ellipso'l‘de comme com-
+posee de lc sphere inserite, ayant pour diametre le petit axe G H, etde
+l’tcorce formant un double menisque: l'action de la sphere doit &tre ex·
+primee par ξ n ub, comme nous avons demontre su 5. ᾗ. Cm· le masse
+de cette sphere est ff n μ b ³, et ln distance du point G au centre est :it
+. Il nous reste donc d chercher quelle action resulte du double mettisque.
+
+Concevons pour cet effet tout l'ellipsoi'de purtage en couches parallelae
+et perpendiculcires d G H. soit lu distance du centre d’une de ces
+couches au 'point G = x; son epaisseur = dx3 iln’est pas difficile de
+voit ⁹ que le capacite du bord de cette couche (qui fait partie du double
+
+n
+
+menisque en question) est = Ξ-ιξ Χ (2 bx - x x) d x, et que ce bord
+
+etant multiplic par lu densite μ, en donne la quantite de mctiere = 13ἔὲ
+Χ (tbx-xx) dx. Or tontes les parties de ce bord infiniment
+mince, peuvent etre cenetes agir egolement, et avec une meme obliquiu}
+sur le corps place au point G: on n'a donc
+qu'a multiplier cette quentite de madere par ln
+raison de lc distance du centre de la couche
+au point G ὲ la distance du bord de la couche
+nu meme point G, et diviser par le quarte de
+cette distance, pour avoir l'attraction dubord de
+
+ln couche, qui sera donc ’ἐξ Χ (2 b x— x x)
+
+dxxgx-Loubien ffidx
+
+„12bx eux tbbv'i‘b
+
+x(ebux-xux)d0nt1‘negrueest=ffb¹¹-3.2‡bxeuxcx
+
+- §x x ts x) puisqu'il ne faut point ajouter ici de constante3 et pour
+avoir enfin l'attrection de tout le double menisque, il suut mettre x = cb,
+apres quoi on aura simplement ᾗ u μ C. si on ajofite d cette quantitc
+
+0 en l'cire de l‘ettipoe &cigneo de G de Ιι Donc dtcnt cette nire du cerole de celle de ret
+
+quentitcxestssxmwbx-um tipaeresteff(tbx-xx)pourt·atredeme
+nuque.
+
+t'undumcuimtm÷(stx-xx).
+
+ 
+

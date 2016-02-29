@@ -1,0 +1,51 @@
+172 TRAITE‘ SUR LE FLUX
+
+divises par 4, donnent les degres de l'arc, dont le sinus est appelle g,
+apres quoi on connoit aussi l’arc dont le sinus est appelle a. Connoia·
+
+sant ainsi par les tnbles les quantites g et a, on trouve sans beaucoup dc
+peine la valeur de M du i. lll.
+
+vnn-On voit aussi, quesi la distance entre les deux luminaires est
+entre deux nombres de la premiere colunne, on peut sans aucune erreur
+sensible employer le principe general des interpolatione, de sorte qua
+cette table peut suffire pour tous les cas.
+
+IX.-On remarquera au reste, qu’il est ici de grande importance d'avoir
+
+substitue la vraie valeur pour-2„ et qu'un assez petit chatrgement dans
+
+cette valeur, a une grande influenoe sur le rapport dea maresa. Onne
+doit donc encore consideret cette table, que comme un exemple de nos
+formulas generales: le Chapitre suivant iera voir les precautions que l'on
+‹loit prendre ld-dessus.
+
+X.-Nous voyons taut par les formulas que nous avons donuees pour
+les hauteur-s des mareas, que par la precedente table, qu’ellc est ἐκ ab·
+structo la nature des variations des marees. on peut faire lai-dcem lca
+Remarques qui suivent.
+
+1⁰. Que les changemens des marees sont fort petits, tant aux syzygia
+qu'aux quadratures, et ils seroient inliniment plus petits que les mrum,
+si l'intarvalle d’une meree i l’autre etoit aussi infinimeut petit.
+
+2⁰. Qua les plus grands changemens ne se sont pas precisement aa
+milieu, mnis plus pres des quadratures que des syzygies: dest-Mire, quela
+plus grande diminution des marees se fait dans uos suppositione, lorsque
+la Lune est environ ai 60 degree (80 avec la correction de 20 degres ex·
+pliquee au Chap. Vll.) depuis les syzygies3 le plus grand decroiasemeut
+se suit donc de la neuvieme i la dixieme maree (de la douzieme i h
+treizieme avec la correctionl: de rueme le plus grand accroissement se
+fait d environ 80 degres depuis les quadratures (50 degres avec le correo·
+tion) qui repond au changement de la quatrieme d la cinquieme marea
+(de la septieme ai la huitieme avec la correction) depuis les quadraturas.
+Je parle dans cette remusque de toutes les marees qui se font, tant celles
+du matin, que celles du soir, pour rendre leurs intervalles plus petits: on
+se souviendra cependautde oeque j'ui ditexpressement, que je fais ab·
+straetion par-tout ailleurs des marees, qui r‘epondent au passage irrlerieur ·
+dela Lune par le meridien, lorsqu'il s'agit de comparer les marees entm ε
+elles: car ces deux sortes de marees ont quelques inegalites entre elle..
+que je n'ai pas erloora considerem.
+
+ 
+

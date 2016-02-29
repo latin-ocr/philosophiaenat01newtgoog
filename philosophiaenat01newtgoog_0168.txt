@@ -1,0 +1,49 @@
+126 TRAITE' SUR LE FLUX
+
+ponde a toute la oolonne G C, il faut encore apres l'integration seire
+x = b.
+
+3. Apros avoir exprime analytiquement les valeurs des pressione
+des colonnes B C et G C, il ne reste plus pour achever la solution de
+notre Probleme‚ qu'al faire une equation entre les deux dites valeurs
+trouvees dans la premiere et seconde partie. On aura donc μ G c ψ
+
+J·de2.snffl-f⁸omnesones&
+a l5b ι
+
+4. f 4 ¹¹ Ἔχ df· et cette equation arrangee donne
+
+5nGabt-sanpatmxdx:sl5gbmxdx‚
+etde lei on tire la valeur cherchee de t, qui est constante3 savoir,
+
+ἥρῳ. c.q.f.a
+§uGa -slnnamxdx
+
+COROLLAIRE.
+
+VI.-Ou voit par notre solution, que generalement Bb doit ecre egale
+ὲ D d3 car la valeur de C est la meme, soit que l'on prenne x affirmative·
+ment, ¹soit negativement. Aussi auroitil ete ridicule de supposer la
+
+courbe BGDH une ellipse, si lea deux parties GBH etGDH
+n’etoient pas devenues par le calcul egalement allongees‚ et lasuppoaition
+auroit renferme une contradiction.
+
+Au reste ces deux petites lignes ne seroient pas egolesai la rigueur.
+Cette egolite n’est fondee que sur ce que nous avons rejette plusieurs foia
+dans notre solution de certaines petites quantites, mais qu'on pouvoit
+negliger reellement, comme tout-ei-sait insensibles, non-seulement par
+rapport a la ligne B C, mais meme par rapport ὰ la petite ligne Bb,
+qui ne scauroit &tre que d’un petit nombre de pieds. Cependant je crois
+encore neeessaire d'avertir ici, qu'il faut ecre sur ses gendes, en rejettant
+dans le calcul de certains tarmen car comme dans l'equation resultante,
+plusieurs tennes se detruisent, et qu’il n’en reste que des termes d'une
+fort petite valeur, on ne doit rejetter que des quantites qui sont imensibles,
+meme par rapport aux quantites restantes dans l’equation.
+
+ce n'est qu'avec une telle precaution, que j'ei neglige dans ma solution
+plusieurs termae, et je ne les aurcis point negliges, si la fin du calcul uc
+m'avoit enseigne, qu'ils penvent et doivent etro negliges.
+
+ 
+

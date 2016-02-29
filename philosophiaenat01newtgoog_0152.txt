@@ -1,0 +1,43 @@
+110 · TRAITE' SUR LE FLUX
+
+dit du cas que nous venons de resoudre, comme pareillement resolu pv
+M. Newton, si je n'cvois pes cni, qu’il etoit convencble de suivre tontes
+les traces qui nous menentsi l’intelligence de notre question principale:
+aussi ces precautions sont-elles neccsscires, nour pouvoir toujours 'exprimet
+d'une meme sapon les quantitks constantes3 et ainsi nous nous souvien·
+drons toljours dans la suite d’exprimer ls force acceleracice d’un colpe
+infiniment petit, par le messe divisse par le quatre de le distance, ct de
+denotet ls messe par le produit de son etcndu'e, etde sc densitk.
+
+PROBLEME.
+
+V.-Trouver l'attrcction pour un corps place en B, causes pcr une
+spherc solide, compasse de couches homogenes3 meis de differentes den·
+sites entr'elles.
+
+SOLUTION.
+
+Il pcroit pcr le troisieme article, qu’on n'a qu’si concevoir le messe dc
+toute lc sphere ramasses au centre C, et qu'elle ccusera lameme attraction,
+tcnt quc le point B est hors de la spheret nom-
+mant donc M la masse du globe‚ ou la somme
+des messes de toutes les couches, l‘cttrcction L
+
+cherchee sera = {l} C. q. fit.
+
+PROBLEME.
+
+Vl.-Soit BG D H une ellipse presque cir·
+culcire, &est-Mire, dont la difference des axes
+BD et G H soit regardee comme infiniment petite3 et qu'on conpoive
+cette ellipse former par ss rotation autour dc l’axe BD, un spheroi'de
+homogene. On demands lc soree acceleratrice, ou l’attrcction que ω
+spheroi'de produirc sur un corps place au pole B.
+
+SOLUTION.
+
+soit lc densita de lc matiere exprimes par μς le petit demi-exe GC
+=b;legrcnddemi·axeBC:b÷t; BJ=x3Ji=d1301iaure
+
+ 
+

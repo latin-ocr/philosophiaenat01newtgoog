@@ -1,0 +1,42 @@
+LraanTnarrua] PRINCIPlA MATHEMATICA. 117
+
+summa quadratorum ex sinibus omnibus N M aequalis erit summm
+quadratorum ex sinibus K M, et summa utraque aeqnalis erit summm
+quadratorum ex totidem semi-diametris K N; ideoque summa quadrato-
+
+rum ex omnibus N M erit duplo minor quam summa quadratorum ex
+totidem semi-diametris K N.
+
+Jam dividatur perimeter circuli A E in particulas totidem aequales, et
+ab earum unaquaque F ad planum Q R demittatur perpendiculum F G,
+
+nt et a puncto A perpendiculum A H. Et vis, qula particula F recedit a
+plano Q R, erit ut perpendiculum illud F G per hypothesin, et haec vis
+ducta indistantiam C G (¹¹) erit efficacia particulae F ad Terram circuni
+centrum ejus convertendam. Idedque efficacia particula in¹ loco F, erit
+ad efficaciam particulae in loco A, ut FG Χ G C ad A H Χ Η C, (²) hoc
+eat, ut F C q ad A C q; et propterea efficacia tota particularum omniurn
+in locis suis F erit ad efficaciam particularum totidem in loco A, ut
+summa omnium F C q ad summam totidem A Οἱ q, hoc est (per (³) jam
+demonstrata) ut unum ad duo. Q. e. d.
+
+· Et quoniam particulae agunt recedendo perpendiculariter a plano Q R,
+idque aequaliter ab utrique parte hujus plani: eaedem convertent circum·-
+ferentiam circuli oequatoris, eique inhaerentem Terram, circum axem tarn
+
+in plano illo Q R quim in plano aequatoris jacentem.
+LEMMA Il. '
+
+Iisdem positis.- dico secundd quod vis e! efficacia tota porticulamm omnium
+extra globum undique sitarum, ad Terram circum arem eoadem rotundam,
+sit ad nim totum punicantem totidem, in aquatoris circulo A E anifirr-
+
+qnndratomm ex omnibu· sinibus N M, id ue (⁰) 0 Erit efficacia. (47. Lssr. Ι.)
+
+murena qmdratorum er omnibus N Μ, erit u· (¹) ³ Hoc eat, ab triangula A C H, FC G,
+plo minor quilm summa quadratorum ex totidem similia.
+
+nni-diametra l( N. (Υ) ⁹ Pro-jum demonstrato. (150.)
+
+ 
+
